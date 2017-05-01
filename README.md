@@ -12,13 +12,13 @@ This app will find and replace plugin-name, Plugin_Name, plugin_name and author 
 Make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```sh
-$ git clone git@github.com:Tmeister/wppb-gen-site.git # or clone your own fork
-$ cd wppb-gen-site
+$ git clone git@github.com:Cuchulain/wppb-gen-site-toret.git # or clone your own fork
+$ cd wppb-gen-site-toret
 $ npm install
 $ node server
 ```
 
 Your app should now be running on [localhost:3000](http://localhost:3000/).
 
-Comments and requests at [@tmeister](https://twitter.com/tmeister) or noone at tmeister dot net
+Comments and requests at [@CuchulainML](https://twitter.com/Cuchulain)
 
