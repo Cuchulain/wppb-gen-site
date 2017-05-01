@@ -20,5 +20,5 @@ $ node server
 
 Your app should now be running on [localhost:3000](http://localhost:3000/).
 
-Comments and requests at [@CuchulainML](https://twitter.com/Cuchulain)
+Comments and requests at [@Cuchulain](https://twitter.com/Cuchulain)
 
